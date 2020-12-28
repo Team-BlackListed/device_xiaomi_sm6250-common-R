@@ -1,0 +1,2 @@
+allow batteryd init:unix_stream_socket connectto;
+allow batteryd property_socket:sock_file write;

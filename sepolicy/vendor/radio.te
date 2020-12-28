@@ -1,0 +1,2 @@
+allow radio gpuservice:binder call;
+allow radio vendor_cnd:binder call;
